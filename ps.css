@@ -1,0 +1,118 @@
+body{
+	background-color: #201f1f;
+	color: #838c8c;
+	/*font-family: avenir;*/
+	font-family: Euclid Circular A;
+}
+
+.hero{
+	margin-top: 100px;
+}
+
+.section-end{
+	margin-top: 100px;
+}
+
+.c-name{
+	font-family: product sans;
+	letter-spacing: 14%;
+	color: #FF9201;
+	font-weight: 700;
+}
+
+.name{
+	font-size: 60px;
+	line-height: 160%;
+	/*color: whitesmoke;*/
+	color: #b5ada7;
+}
+
+.about-me{
+	/*color: #757886;*/
+	color: #838c8c;
+	font-size: 16px;
+	max-width: 500px;
+}
+
+.my-services{
+	font-size: 32px;
+}
+
+.service-name{
+	font-size: 24px;
+	text-align: left;
+}
+
+li{
+	font-size: 24px;
+	text-decoration: none;
+	line-height: 260%;
+}
+
+h4{
+	font-size: 16px;
+	font-weight: 400;
+
+}
+
+.project-name{
+	color: #b5ada7;
+	font-size: 20px;
+}
+
+.project-type{
+	font-size: 14px;
+}
+
+.testimonail{
+	width: 400px;
+	font-size: 24px;
+	color: white;
+	text-align: justify-all;
+}
+
+.contacts{
+	height: 400px;
+	background-image: url(charles-deluvio-Lks7vei-eAg-unsplash.jpg);
+	background-size: cover;
+}
+
+.contacts-overlay{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.call{
+	font-size: 60px;
+	color: white;
+}
+footer{
+	height: 200px;
+}
+
+.footer-paragraph{
+	text-align: center;
+}
+
+.icon{
+	color: white;
+	width: 30px;
+	text-decoration: none;
+}
+
+.row2{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+.col4{
+	flex-basis: 33%;
+	padding: 10px;
+}
+
+
+
+
+
+
